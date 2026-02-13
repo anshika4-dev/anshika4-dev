@@ -140,8 +140,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miss-perfect4&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miss-perfect4&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--![Developer GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI4cjA5cnBodnowb3c4cGlsMTZ1bjRzZGs4djYwMXhkNWxkMGpvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif)
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
   </div>
 
