@@ -136,10 +136,6 @@
 
 ![Developer GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hkMG5nMHkwcnFjMmtpb2x0ZDg0dXpkZTZiYnNjcTV6N2U5amR1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WE59KFXbaf6tsAn2zW/giphy.gif)
 
-![](https://github-readme-stats.vercel.app/api?username=miss-perfect4&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=miss-perfect4&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miss-perfect4&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
   </div>
 
